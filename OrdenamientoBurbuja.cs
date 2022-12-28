@@ -2,7 +2,7 @@
 using System.Diagnostics;
 class OrdenamientoBurbuja
 {
-       static void Mains5(string[] args)
+       static void Main(string[] args)
     {
         float[] A = {50, 20, 40, 80, 30 };
         Console.WriteLine("Arreglo desordenado: ");
