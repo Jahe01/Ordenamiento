@@ -5,7 +5,7 @@ class OrdenamientoSeleccionPlus
     static void Main(string[] args)
     {
         // la hora de inicio de ejecución
-        DateTime startTime = DateTime.Now;
+        DateTime startTime = DateTime.Now;//
         Console.WriteLine("Hora de inicio de ejecución: {0}", startTime);
 
         float[] A = { 51, 21, 39, 80, 36 };
