@@ -2,7 +2,7 @@
 using System.Diagnostics;
 class OrdenamientoQuicksortPlus
 {
-    static void Main4(string[] args)
+    static void Main(string[] args)
     {
         // la hora de inicio de ejecución
         DateTime startTime = DateTime.Now;
