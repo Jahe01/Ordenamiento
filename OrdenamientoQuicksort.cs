@@ -2,7 +2,7 @@
 using System.Diagnostics;
 class OrdenamientoQuicksort
 {
-    static void Main3(string[] args)
+    static void Main(string[] args)
     {
         float[] A = { 79, 21, 15, 99, 88, 65, 75, 85, 76, 46, 84, 24 };
         Console.WriteLine("Arreglo desordenado: ");
