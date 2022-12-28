@@ -2,7 +2,7 @@
 using System.Diagnostics;
 class OrdenamientoInsercionPlus
 {
-    static void Main2(string[] args)
+    static void Main(string[] args)
     {
         // la hora de inicio de ejecución
         DateTime startTime = DateTime.Now;
