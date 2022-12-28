@@ -4,7 +4,7 @@ using System.Diagnostics;
 
 class OrdenamientoBurbujaPlus
 {
-        static void Main6(string[] args)
+        static void Main(string[] args)
     {
         // la hora de inicio de ejecución
         DateTime startTime = DateTime.Now;
