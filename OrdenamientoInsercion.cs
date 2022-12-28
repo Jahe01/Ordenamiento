@@ -2,7 +2,7 @@
 using System.Diagnostics;
 class OrdenamientoInsercion
 {
-    static void Main1(string[] args)
+    static void Main(string[] args)
     {
         float[] A = { 14, 9, 16, 1, 13, 17 };
         Console.WriteLine("Arreglo desordenado: ");
